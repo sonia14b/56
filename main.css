@@ -1,0 +1,117 @@
+.tiktok-botton {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 24px;
+    border-radius: 12px;
+}
+
+.tiktok-botton > i {
+    margin-right: 10px;
+}
+
+.tiktok-botton:hover {
+    background-color: rgb(49, 49, 49);
+}
+
+
+.telegram-botton {
+    text-decoration: none;
+    background-color: darkred;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 24px;
+    border-radius: 12px;
+}
+
+.telegram-botton > i {
+    margin-right: 10px;
+}
+
+.telegram-botton:hover {
+    background-color: rgb(49, 49, 49);
+}
+
+
+.facebook-botton {
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 24px;
+    border-radius: 12px;
+}
+
+.facebook-botton > i {
+    margin-right: 10px;
+}
+
+.facebook-botton:hover {
+    background-color: rgb(49, 49, 49);
+}
+
+
+.twitter-botton {
+    text-decoration: none;
+    background-color: darkorchid;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 24px;
+    border-radius: 12px;
+}
+
+.twitter-botton > i {
+    margin-right: 10px;
+}
+
+.twitter-botton:hover {
+    background-color: rgb(49, 49, 49);
+}
+
+
+.instagram-botton {
+    text-decoration: none;
+    background-color: darkmagenta;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 24px;
+    border-radius: 12px;
+}
+
+.instagram-botton > i {
+    margin-right: 10px;
+}
+
+.instagram-botton:hover {
+    background-color: rgb(49, 49, 49);
+}
+
+.viber-botton {
+    text-decoration: none;
+    background-color: darkgoldenrod;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 24px;
+    border-radius: 12px;
+}
+
+.viber-botton > i {
+    margin-right: 10px;
+}
+
+.viber-botton:hover {
+    background-color: rgb(49, 49, 49);
+}
